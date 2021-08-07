@@ -1,5 +1,5 @@
 # cs20211_g1
-Repositório definido para a manutenção do controle de versão para uma API Rest sobre uma hipotética Operadora de Cartões de Crédito.
+Repositório definido para a manutenção do controle de versão dos artefaos gerados na uma _API Rest_, sobre uma hipotética **Operadora de Cartões de Crédito**.
 
 Os artefatos deste projeto serão gerados pelos alunos:
 |Matrícula|Nome|github user|
