@@ -136,4 +136,37 @@
 
 **E:** enviar um email notificando a possível mudança.
 
+###### Nome do Sistema: TGCredit
+
+###### Estória de Usuário: 4
+
+###### Sprint: 1
+
+###### Nome: Registrar o pagamento de uma fatura
+
+## Histórico
+
+| **Versão** | **Data**   | **Alteração no Documento** | **Autor**          |
+| ---------- | ---------- | -------------------------- | ------------------ |
+| 1.0        | 11/08/2021 | 11/08/2021                 |    Andrey Dias     |
+
+**Como:** cliente do TGCredit
+
+**Eu quero:** Realizar o pagamento de uma fatura do TGCard;
+
+<br>
+
+**Cenário 1:** Pagar uma fatura do TGCard;
+
+**Dado:** Que eu tenha realizado alguma compra com o TGCard;
+
+**E:** a fatura não tenha vencido;
+
+**Quando:** eu acessar as informações de minha conta;
+
+**E:** acessar a área de pagamento de fatura;
+
+**E:** optar entre o pagamento online e pagamento por emissão de boleto;
+
+**Então:** Após o recebimento do pagamento, o sistema deve notificar o cliente e liberar o limite novamente;
 </DIV>
